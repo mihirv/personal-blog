@@ -1,0 +1,8 @@
+---
+layout: post
+title: 'Test: 1st page'
+permalink: /test1/
+---
+I recently spent some time trying out github pages.
+
+* {{ date }}
