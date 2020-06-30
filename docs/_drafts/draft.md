@@ -1,0 +1,1 @@
+Drafts are unpublished posts. The format of these files is without a date, ie. **title.MARKUP**. 
