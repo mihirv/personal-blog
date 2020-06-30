@@ -4,6 +4,6 @@ layout: post
 title: 'Test: 1st page'
 permalink: /test1/
 ---
-# {{ page.title }}
+# Test page
 
-I recently spent some time trying out **github pages**.
+I recently spent some time trying out **github pages**. **{{ page.title }}** page is my playground.
